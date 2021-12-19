@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "nextfire-app-85134": {
+      "hosting": {
+        "angular-tictactoe": [
+          "nextfire-app-85134"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "nextfire-app-85134"
+  }
+}
